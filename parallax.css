@@ -46,14 +46,14 @@ color:#ccc;}
 .img-1,.img-2,.img-3,.img-4{background-attachment: fixed;}
 
 .img-1{
-	background-image: url('D:/DBZ/the_avengers_iron_man-wallpaper-1366x768.jpg');
+	background-image: url('the_avengers_iron_man-wallpaper-1366x768.jpg');
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position:center; 
 	height: 100vh;
 margin-top:-15px;}
 .img-2{
-	background-image: url('D:/DBZ/captain_america_vs_iron_man-wallpaper-1366x768.jpg');
+	background-image: url('captain_america_vs_iron_man-wallpaper-1366x768.jpg');
 	background-position: center;
  	background-size:cover;
 
@@ -63,7 +63,7 @@ margin-top:-15px;}
 }
 
 .img-3{
-	background-image: url('D:/DBZ/avengers_infinity_war_superheros-wallpaper-1366x768.jpg');
+	background-image: url('avengers_infinity_war_superheros-wallpaper-1366x768.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 height: 400px;
