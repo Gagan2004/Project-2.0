@@ -1,0 +1,72 @@
+body,html{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Lato",sans-serif;
+	line-height: 1.6rem;
+	background: #333;
+
+}
+
+
+.p-txt {
+	text-align: center;
+color: #111;
+background: #1e88e5;
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-50% ,-50%);
+font-size: 22px;
+border: 2px solid #ccc;
+width: 140px;
+height: 60px;
+
+}
+p{
+	font-weight: 400;
+
+}
+h1{
+	text-transform:uppercase;
+letter-spacing: 0.001em;
+}
+.section{ 
+width: 100%; 
+box-sizing: border-box;
+padding: 6px;
+text-align: center;
+margin: auto;
+}
+
+.dark{background-color:#333;
+
+color:#ccc;}
+
+.light{background:#f4f4f4;}
+.img-1,.img-2,.img-3,.img-4{background-attachment: fixed;}
+
+.img-1{
+	background-image: url('D:/DBZ/the_avengers_iron_man-wallpaper-1366x768.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center; 
+	height: 100vh;
+margin-top:-15px;}
+.img-2{
+	background-image: url('D:/DBZ/captain_america_vs_iron_man-wallpaper-1366x768.jpg');
+	background-position: center;
+ 	background-size:cover;
+
+	background-repeat: no-repeat;
+	height: 400px;
+
+}
+
+.img-3{
+	background-image: url('D:/DBZ/avengers_infinity_war_superheros-wallpaper-1366x768.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+height: 400px;
+}
+
+
